@@ -1,0 +1,14 @@
+D:\Sample\LINQ_Task\LINQ_Task\bin\Debug\net8.0\LINQ_Task.exe
+D:\Sample\LINQ_Task\LINQ_Task\bin\Debug\net8.0\LINQ_Task.deps.json
+D:\Sample\LINQ_Task\LINQ_Task\bin\Debug\net8.0\LINQ_Task.runtimeconfig.json
+D:\Sample\LINQ_Task\LINQ_Task\bin\Debug\net8.0\LINQ_Task.dll
+D:\Sample\LINQ_Task\LINQ_Task\bin\Debug\net8.0\LINQ_Task.pdb
+D:\Sample\LINQ_Task\LINQ_Task\obj\Debug\net8.0\LINQ_Task.GeneratedMSBuildEditorConfig.editorconfig
+D:\Sample\LINQ_Task\LINQ_Task\obj\Debug\net8.0\LINQ_Task.AssemblyInfoInputs.cache
+D:\Sample\LINQ_Task\LINQ_Task\obj\Debug\net8.0\LINQ_Task.AssemblyInfo.cs
+D:\Sample\LINQ_Task\LINQ_Task\obj\Debug\net8.0\LINQ_Task.csproj.CoreCompileInputs.cache
+D:\Sample\LINQ_Task\LINQ_Task\obj\Debug\net8.0\LINQ_Task.dll
+D:\Sample\LINQ_Task\LINQ_Task\obj\Debug\net8.0\refint\LINQ_Task.dll
+D:\Sample\LINQ_Task\LINQ_Task\obj\Debug\net8.0\LINQ_Task.pdb
+D:\Sample\LINQ_Task\LINQ_Task\obj\Debug\net8.0\LINQ_Task.genruntimeconfig.cache
+D:\Sample\LINQ_Task\LINQ_Task\obj\Debug\net8.0\ref\LINQ_Task.dll
